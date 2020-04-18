@@ -10,8 +10,11 @@ The implementation also contains the Porter's stemmer for the English language.
 Examples
 
   αυτοκίνητο --> αυτοκιν
+  
  αυτοκινήτων --> αυτοκιν
+ 
     καρπούζι --> καρπουζ
+    
    καρπούζια --> καρπουζ
   καρπουζιών --> καρπουζ
  υπολογισμός --> υπλοξ
