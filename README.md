@@ -7,7 +7,7 @@ of the University of Crete, the Spring semester of 2006 taught by Yannis Tzitzik
 Some details about this stemmer are available in the paper https://arxiv.org/abs/0803.2220
 The implementation also contains the Porter's stemmer for the English language.
 
-Examples
+Examples <br>
   αυτοκίνητο --> αυτοκιν <br>
  αυτοκινήτων --> αυτοκιν <br>
     καρπούζι --> καρπουζ <br>
